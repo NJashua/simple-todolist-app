@@ -1,9 +1,1 @@
-# sample-app
-# sample-app
-# sample-app
-# Alarm-app
-# Alarm-app
-# Alaram-web
-# Alaram-web-app
-# Alaram-web-app
-# Alaram-web-app
+# alaram app
